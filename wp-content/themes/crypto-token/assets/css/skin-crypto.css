@@ -1,0 +1,496 @@
+
+
+body .theme-blue  {
+	color: #ababab;
+}
+.theme-blue {
+	background: linear-gradient(90deg, #101198, #0074da);
+}
+.theme-blue p {
+	color: #000;
+}
+.excerpt,
+.excerpt p{
+	color: #ababab;
+}
+
+.theme-blue h1,.theme-blue h2, 
+.theme-blue h3,.theme-blue h4, 
+.theme-blue h5,.theme-blue h6{
+	color: #000000;
+}
+
+.theme-blue .blog-page {	
+	background-color: hsl(0deg 0% 13%);
+}
+
+.widget_search .search-submit:focus{
+	background: #404040;
+	border: 1px solid #f8f8f8;
+}
+
+blockquote cite, blockquote small { 
+	color: #888888; 
+}
+
+.widget a:hover,
+.widget a:focus{
+	color: #101198;
+}
+
+h1.section-title {
+	color: #000;
+}
+.section-header {
+	    border-left: 4px solid #ffffff;
+}
+
+.home-blog {
+    background: #0c3c4c;
+}
+
+.wp-block-search .wp-block-search__button:focus, .wp-block-search .wp-block-search__button:hover {
+	background-color: #0c3c4c;
+}
+
+/* #Particle CSS
+================================================== */
+
+#particles-js {
+    background: #0c3c4c;
+}
+
+.overlap-enable {
+	background: transparent;
+}
+.sticky-menu div.navigation-wrap {
+	transition: all 0.3s ease-out;
+	background: #0c3c4ccf;
+}
+
+/* #Slider
+================================================== */
+
+.main-slider .item { 
+	height: 900px !important;
+}
+.main-slider .custom-shape-divider-bottom {
+	display: none;
+}
+#particles-js {
+	height: 940px;
+}
+.overlap-enable {
+	border: none;
+}
+
+.slider-caption {
+	top: 42%;
+}
+
+
+/* #About
+================================================== */
+.about .title {
+	color: #1e1d24;
+}
+.about .subtitle {
+	color: #0c3c4c;
+}
+.about .description {
+	color: #1e1d24;
+}
+.btn-skin { 
+	background-color: #ffffff;
+	box-shadow: 0 0px 0px 0 rgb(0 0 0 / 20%);
+}
+
+/* #Roadmap Section
+================================================== */
+
+.theme-blue .road-map-timeline h3 {
+	color: #ffffff;
+}
+
+.theme-blue .road-map-timeline h5 {
+	color: #222;
+}
+.theme-blue .road-map-timeline p{
+	color: #777;
+} 
+
+.theme-blue .road-map-tl-event li .event .content{
+	background: #ffffff;
+}
+.theme-blue .content h3 {
+	background: linear-gradient(320deg, #101198, #0074da);
+}
+
+.road-map-tl-event:before {
+    background: url(/wp-content/themes/crypto-token/assets/img/bgr-timeline-horizontal.png) repeat-y center 0;
+}
+
+.road-map-tl-event li.circle-row2 .event .content::before {
+    background: url(/wp-content/themes/crypto-token/assets/img/bgr-timeline-vertical.png) repeat-x 0 0;
+}
+
+.road-map-tl-event li.circle-row .event .content:before {
+    background: url(/wp-content/themes/crypto-token/assets/img/bgr-timeline-vertical.png) repeat-x 0 0;
+}
+
+.road-map-tl-event::after {
+	background: #101198;
+}
+
+/* #Docs Content Section
+================================================== */
+#documents {
+	background: #0c3c4c;
+	padding: 5rem 0 5.25rem;
+}
+#documents .section-header h1 {
+	color: #fff;
+}
+#documents .section-header {
+    border-left: 4px solid #ffffff;
+}
+.theme-blue .docs_content p{
+	color: #fff;
+	margin-top: 5%;
+}
+
+#documents .token-docs {
+	background: #fff;
+	color: #000;
+}
+#documents .token-docs i {
+	color: #0c3c4c;
+}
+#documents .token-docs span {
+	font-weight: 700;
+}
+#documents .docs_content p {
+	color: #000;
+}
+
+/* #tokenomics Content Section
+================================================== */
+#tokenomics .section-header {
+	border-left: 4px solid #0c3c4c;
+}
+#tokenomics .section-title {
+	color: #0c3c4c;
+}
+
+/* #Comment Area Css
+================================================== */
+
+.comments-area .form-submit .submit{ 
+	border: 2px solid #1d2327;
+}
+
+.comments-area .form-submit .submit:hover,
+.comments-area .form-submit .submit:focus {
+    background-color: #101198;
+    border: 2px solid #f8f8f8;
+}
+
+/* #Link Color CSS
+================================================== */
+.theme-blue .post .more-link{
+	color: #EBEEF2;
+}
+.theme-blue .post .more-link:focus,
+.theme-blue .post .more-link:hover{
+	color: #FAA615;
+}
+
+
+/* #Breadcrumb Section
+================================================== */
+.page-breadcrumb > li a:hover, 
+.page-breadcrumb > li a:focus, 
+.page-breadcrumb > li.active{
+	color: #686868;
+}
+
+
+
+/* #Feature Section
+================================================== */
+.features-section .feature-icon i{
+	color: #fff;
+}
+.features-section .features h4{
+	color: #EBEEF2;
+}
+.features-section .feature:nth-child(1),
+.features-section .feature:nth-child(3){
+	background: #000;
+}
+
+
+/* #Blog Section
+================================================== */
+.theme-blue .post .post-widget i {
+	color: #0074da;
+}
+.theme-blue .post .post-widget li a {
+	color: #0074da;
+}
+.theme-blue .post .post-widget li a:focus,
+.theme-blue .post .post-widget li a:hover {
+	color: #101198;
+}
+.theme-blue .post .post-widget li:after{
+	color: #fff;
+}
+.post .post-widget li a{
+	color: #0c3c4c;
+}
+.post .inner-header a{
+	color: #0c3c4c;
+}
+
+
+/* #Portfolio Section
+================================================== */
+.theme-blue .portfolio-box {
+	background: hsl(0deg 0% 13%);
+}
+.theme-blue .portfolio-box .inner-title a{
+	color: #EBEEF2;
+}
+.theme-blue .portfolio-box p {
+	color: #EBEEF2;
+}
+
+/* #Accordion Section
+================================================== */
+
+/* .theme-blue  #accordion-1 .head h5{
+	color: #000000bf;
+} */
+
+.theme-blue #accordion-1{
+	background-color: #222324;
+}
+.theme-blue  #accordion-1 .content{
+	background-color: #222324;
+}
+.theme-blue  #accordion-1 .head {
+	background-color: #222324;
+}
+.theme-blue #accordion-1 .arrow{
+	color: #e6edfd;
+}
+
+
+/* #Conact Us Section
+================================================== */
+.theme-blue  .info-box{
+	background: #fff;
+}
+
+.theme-blue .info-box h3{
+	color: #000;
+}
+
+
+/* #Token Airdrop Section
+================================================== */
+.theme-blue input[type=text]{
+	background: #343542;
+	border: 1px solid #32333f;
+}
+.theme-blue input[type=text]:focus{
+	background: #ffffff;
+	border: 1px solid #fff;
+}
+
+.tokensale .submit-address button:hover,
+.tokensale .submit-address button:focus{
+	background-color: #44454c;
+}
+
+/* #Faq Section
+================================================== */
+/* .theme-blue .faq-content p{
+	color: #3a4048;
+} */
+
+
+
+/* #Team Member Section
+================================================== */
+.theme-blue .member .member-info h4{
+	color: #fff;
+}
+
+/* #Token Presale Section
+================================================== */
+/* .theme-blue .content h3{
+	color: #fff;
+	background: linear-gradient(145deg, #020202, #f0b90b);
+}
+ */.theme-blue .submit-address button{
+	background-color: #18191b;
+    color: #FFF;
+}
+
+/* #Blog Pages Meta
+================================================== */
+.theme-blue .post .post-category i {
+	color: #101198;
+}
+.theme-blue .post .post-category li a {
+	color: #101198;
+}
+.theme-blue .post .post-category li a:focus,
+.theme-blue .post .post-category li a:hover {
+	color: #ebeef2;
+}
+.theme-blue .post .post-category li:after{
+	color: #fff;
+}
+.theme-blue .post .post-body {
+	background-color: #ffffff;
+}
+
+/* #Sidebar Widget Section
+================================================== */
+.theme-blue  .sidebar .widget {
+	background: hsl(0deg 0% 13%);
+}
+/* .theme-blue  .site-footer .widget {
+	background: hsl(210deg 3% 14% / 73%);
+} */
+.theme-blue  .widget li a {
+	color: #EBEEF2;
+}
+.theme-blue  .widget li a:focus,
+.theme-blue  .widget li a:hover{
+	color: #101198;
+}
+
+.theme-blue .tagcloud a,
+.theme-blue .wp-block-tag-cloud a {
+	background-color: #0d0e107d; 
+	border: 1px solid #d1d1d1; 
+	color: #ced4da;
+    cursor: pointer;
+    display: inline-block;
+	font-size: 0.875rem;
+    margin: 0 5px 8px 0;
+    padding: 4px 14px;
+    transition: all 0.3s ease 0s;
+    vertical-align: baseline;
+    white-space: nowrap;
+	border-radius: 1px;
+	text-decoration: none;
+}
+
+.theme-blue .widget .tagcloud a:hover,
+.theme-blue .widget .tagcloud a:focus,
+.theme-blue .widget .wp-block-tag-cloud a:focus,
+.theme-blue .widget .wp-block-tag-cloud a:hover {
+	color: #ffffff;
+	background-color: #faa615;
+}
+
+/* #Calendar Widget Section
+================================================== */
+.theme-blue .wp-block-calendar table th { background: #ededed; }
+.theme-blue .widget #wp-calendar tr td { color: #efefef; }
+.theme-blue .widget #wp-calendar caption{ color: #efefef; }
+.theme-blue  .wp-block-calendar table th{ background: #0a1823; }
+.theme-blue  .wp-calendar-nav-prev a{ color: #fff; }
+
+.site-footer .widget_calendar table,
+.site-footer .widget #calendar_wrap th,
+.widget #wp-calendar caption,
+.footer ul li{
+	color: #fff;
+}
+
+
+/* #Woocommerce
+================================================== */
+.theme-blue .product {
+	background-color: #212121;
+}
+.theme-blue .product_meta {
+	color: #e3e3e3;
+    background: #18191b;
+    padding: 10px;
+}
+.theme-blue .product_meta span a{
+	color: #fff;
+}
+.theme-blue .product_meta span a:focus,
+.theme-blue .product_meta span a:hover{
+	color: #fff;
+}
+.theme-blue .woocommerce-product-rating a{
+	color: #fff;
+}
+
+.theme-blue .widget #calendar_wrap th {
+	color: #fff;
+}
+.theme-blue button, .theme-blue input, .theme-blue select, .theme-blue textarea {
+	color: #fff;
+}
+
+
+
+/* #Footer
+================================================== */
+.footer { 
+	margin: 0;
+	background: #0c3c4c;
+}
+.footer::before {
+	background: none;
+} 
+
+
+.theme-blue .footer {
+	margin-top: 0px;
+}
+
+.theme-blue .member .member-img:after,
+.theme-blue .post-thumbnail:after{
+	background: none;
+}
+
+.theme-blue .footer::before {
+    content: "";
+    top: 0px;
+    display: block;
+    height: 50px;
+    width: 100%;
+    background: url(/wp-content/themes/crypto-token/assets/img/token/footer-dark-waves.svg) top no-repeat;
+    position: absolute;
+    bottom: 92px;
+    left: 0;
+    right: 0;
+    z-index: 101;
+    background-size: cover;
+    transform: rotate(0deg);
+}
+
+
+.site-footer .widget{
+	background: #fff;
+}
+
+/*--------------------------------------------------------------*/
+/*	Footer Copyright 
+/*--------------------------------------------------------------*/
+.site-info a:hover {
+    color: #cd0000;
+}
+.site-footer ul li a:hover {
+	color: #cd0000;
+}

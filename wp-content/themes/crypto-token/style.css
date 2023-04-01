@@ -1,0 +1,35 @@
+/*
+Theme Name: Crypto Token
+Theme URI: https://wpfrank.com/wordpress-themes/crypto-airdrop-premium/
+Template: crypto-airdrop
+Author: WP Frank
+Author URI: https://wpfrank.com/
+Description: Crypto Token is a stylish and modern WordPress theme designed specifically for cryptocurrency and blockchain businesses. With its sleek and professional design, this theme is the perfect platform to showcase your services, products, and projects in a way that will grab your audience's attention. The theme features a clean, responsive layout that is optimized for all devices, making it ideal for both desktop and mobile users. Additionally, it includes a variety of customization options that allow you to personalize your site to match your brand and style preferences. With Crypto Token, you can create a memorable online presence that reflects the cutting-edge technology of your industry. Go Check Demo: https://wpfrank.com/demo/crypto-Token/
+Tags: one-column, two-columns, four-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Version: 0.0.2
+Tested up to: 6.1.1
+Requires PHP: 5.4
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: crypto-token
+*/
+
+
+a {
+    color: #0c3c4c;
+}
+a:hover {
+    color:#000;
+}
+
+.site-menu-content--sticky.sticky-menu {
+	top: unset;
+}
+
+.widget li a, .widget_archive li a, .widget_categories li a, .widget_links li a, .widget_meta li a, .widget_nav_menu li a, .widget_pages li a, .widget_recent_comments li a, .widget_recent_entries li a {
+    color: #0c3c4c;
+}
+
+#about {
+    padding: 8rem 0;
+}
